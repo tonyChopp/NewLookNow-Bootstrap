@@ -1,5 +1,6 @@
 <?php
 
+//
 require_once('stripe/vendor/autoload.php');
 
 $stripe = array(
