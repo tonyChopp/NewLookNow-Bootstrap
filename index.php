@@ -1,7 +1,7 @@
 <?php
 
 // load drupal and local include files
-require_once('_include.php');
+// require_once('_include.php');
 
 ?>
 <!DOCTYPE html>

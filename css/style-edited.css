@@ -76,6 +76,22 @@ body {
     font-family:'Museo Sans' !important;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family:'Museo Sans' !important;
+}
+
+p {
+    font-family:'Museo Sans' !important;
+}
+
+a {
+    font-family:'Museo Sans' !important;
+}
+
+input, button {
+    font-family:'Museo Sans' !important;
+}
+
 /*...... start col_zero ............*/
 
 .col_zero {
@@ -147,12 +163,13 @@ body {
 }
 
 .navigation > ul > li > a {
+	font-family:'Museo Sans' !important;
 	font-size:15px;
 	/*font-family:'MuseoSans100';*/
 	color:#333333;
 	line-height:20px;
 	padding:37px 20px;
-	font-weight:300 !important;
+	font-weight:100 !important;
 	letter-spacing:0px 	!important;
 }
 
@@ -162,6 +179,7 @@ body {
 }
 
 .header.sticky .navigation ul li a {
+	font-family:'Museo Sans' !important;
 	font-size:14px;
 	/*font-family:'MuseoSans100';*/
 	color:#333333;
@@ -324,18 +342,22 @@ box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
 
 .bg-image1 {
     background-image:url(../img/Edited-Portion/background-images/background-1.jpg);
+	min-height:768px;
 }
 
 .bg-image1a {
     background-image:url(../img/Edited-Portion/background-images/background-1a.jpg);
+	min-height:768px;
 }
 
 .bg-image1b {
     background-image:url(../img/Edited-Portion/background-images/background-1b.jpg);
+	min-height:768px;
 }
 
 .bg-image1c {
     background-image:url(../img/Edited-Portion/background-images/background-1c.jpg);
+	min-height:768px;
 }
 
 .bg-image2 {
@@ -3448,6 +3470,7 @@ a.next-button1-fixed1:active {
 	margin-bottom:15px;
 	padding:15px 15px 5px 15px;
 	min-height:100px;
+	border-radius: 10px;
 }
 
 
@@ -4387,6 +4410,24 @@ ul.pager-1 li {
 	padding-bottom:50px;
 }
 
+/*------------ start popup-one ------------------*/
+
+#popup-one-1-modal1 {
+	overflow-y:scroll !important;
+    padding-right:0px !important;
+}
+
+.popup-bg-image1 {
+    background-size: cover !important;
+    background-position:100% center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+.popup-bg-image1 {
+    background-image:url(../img/Edited-Portion/background-images/modal-background-1a.jpg);
+}
+
 
 
 /* ----------------------------------*/
@@ -4721,7 +4762,3 @@ ul.pager-1 li {
 }
 
 
-/* VALIDATION */
-.validate-false {
-  border: 1px solid red !important;
-}
