@@ -461,7 +461,7 @@
                 <div class="row text-center" id="BeforeAndAfterBlk1">
                 	<div class="col-md-12 col-sm-12 common-text-blk1">
                     	<h1 class="mb50">Before & After Visualizer</h1>
-                        <p>Have you ever wondered what you could look like with a more youthful, refreshed appearance? To see the remarkable possibilities, use New Look Now’s before & after visualizer to get a sneak peek of what you could look like after a facial rejuvenation.’</p>
+                        <p>Have you ever wondered what you could look like with a more youthful, refreshed appearance? To see the remarkable possibilities, use New Look Now’s before & after visualizer to get a sneak peek of what you could look like after a facial rejuvenation.</p>
                         <p>After you make an appointment, you’ll receive an email and all it takes is 4 easy steps:</p>
                     </div><!-- / col-md-12 -->
                 </div><!-- / row -->
